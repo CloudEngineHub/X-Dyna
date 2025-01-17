@@ -46,8 +46,6 @@
         </a>
         <a href='https://x-dyna.github.io/xdyna.github.io/'>
         <img src='https://img.shields.io/badge/Project_Page-XDyna-blue' alt='Project Page'></a>
-        <a href='https://youtu.be/VPJe6TyrT-Y'>
-        <img src='https://img.shields.io/badge/YouTube-XDyna-rgb(255, 0, 0)' alt='Youtube'></a>
         <a href='https://huggingface.co/Boese0601/X-Dyna'>
         <img src='https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-yellow'></a>
      </br>

@@ -1,16 +1,15 @@
-# Copyright 2024 ByteDance and/or its affiliates.
-#
-# Copyright (2024) X-Dyna Authors
-#
-# ByteDance, its affiliates and licensors retain all intellectual
-# property and proprietary rights in and to this material, related
-# documentation and any modifications thereto. Any use, reproduction,
-# disclosure or distribution of this material and related documentation
-# without an express license agreement from ByteDance or
-# its affiliates is strictly prohibited.
+# Adapted from https://github.com/tencent-ailab/IP-Adapter/blob/main/ip_adapter/ip_adapter.py
 
-# modified from https://github.com/mlfoundations/open_flamingo/blob/main/open_flamingo/src/helpers.py
-# and https://github.com/lucidrains/imagen-pytorch/blob/main/imagen_pytorch/imagen_pytorch.py
+# Copyright (c) 2023 IP-Adapter Authors.
+# Copyright (c) 2024 X-Dyna Authors.
+# SPDX-License-Identifier: Apache-2.0 
+#
+# This file has been modified by Di Chang on 11/16/2024.
+#
+# Original file was released under Apache License, Version 2.0, with the full license text
+# available at https://github.com/tencent-ailab/IP-Adapter/blob/main/LICENSE
+#
+# This modified file is released under the same license.
 
 import math
 
