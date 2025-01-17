@@ -1,7 +1,7 @@
 # Adapted from https://github.com/huggingface/diffusers/blob/main/src/diffusers/models/resnet.py
 
 # Copyright (c) 2023 The HuggingFace Team.
-# Copyright (c) 2024 X-Dyna Authors.
+# Copyright 2024 ByteDance and/or its affiliates
 # SPDX-License-Identifier: Apache-2.0 
 #
 # This file has been modified by Di Chang on 11/16/2024.

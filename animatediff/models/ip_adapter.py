@@ -1,7 +1,7 @@
 # Adapted from https://github.com/tencent-ailab/IP-Adapter/blob/main/ip_adapter/ip_adapter.py
 
 # Copyright (c) 2023 IP-Adapter Authors.
-# Copyright (c) 2024 X-Dyna Authors.
+# Copyright 2024 ByteDance and/or its affiliates
 # SPDX-License-Identifier: Apache-2.0 
 #
 # This file has been modified by Di Chang on 11/16/2024.

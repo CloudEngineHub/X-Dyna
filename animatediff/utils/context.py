@@ -1,7 +1,7 @@
 # Adapted from https://github.com/s9roll7/animatediff-cli-prompt-travel/tree/main
 
 # Copyright (c) 2023 animatediff-cli Authors.
-# Copyright (c) 2024 X-Dyna Authors.
+# Copyright 2024 ByteDance and/or its affiliates
 # SPDX-License-Identifier: Apache-2.0 
 #
 # This file has been modified by Di Chang on 11/16/2024.
