@@ -60,7 +60,7 @@ This repo is the official pytorch implementation of X-Dyna, which generates temp
 ## 📹 Teaser Video
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/9c7051ab-00ac-4a46-bfde-bc9f0492b7ad" width="50%">
+  <video src="https://github.com/user-attachments/assets/a49d31cd-1ae6-4660-a7f2-52f49ca40149" width="50%">
 </div>
 
 The video is compressed to low quality due to GitHub's limit. The high quality version can be view from [here](https://youtube.com).
@@ -98,7 +98,9 @@ a) IP-Adapter encodes the reference image as an image CLIP embedding and injects
 </p>
 
 
-https://github.com/user-attachments/assets/f3856eea-9c81-4350-9532-a1a9fcebc528
+https://github.com/user-attachments/assets/a4a679fd-b8e1-4f9a-ad9c-24adb0ca33eb
+
+
 
 
 
@@ -107,24 +109,37 @@ https://github.com/user-attachments/assets/f3856eea-9c81-4350-9532-a1a9fcebc528
 To evaluate the dynamics texture generation performance of X-Dyna in human video animation, we compare the generation results of X-Dyna with MagicPose (ReferenceNet-based method) and MimicMotion (SVD-based method). For a fair comparison, all generated videos share the same resolution of Height x Width = 896 x 512. 
 
 
-https://github.com/user-attachments/assets/532f5428-ec13-4ade-8f96-a4834a5738e6
 
-https://github.com/user-attachments/assets/fccdc528-5453-49d3-80f3-8146f157aceb
-
-https://github.com/user-attachments/assets/712cec90-3382-4911-a0e5-d636d5d48b3e
+https://github.com/user-attachments/assets/436a6d6c-9579-446d-831e-6ff2195147c3
 
 
-https://github.com/user-attachments/assets/aa3940d4-801d-44f6-9b2c-b03034a75b72
 
-https://github.com/user-attachments/assets/efc18a25-a389-4aab-ad0c-dc835bc360f0
+https://github.com/user-attachments/assets/5369163a-d0f6-4389-baf4-b77fcd2b7527
+
+
+https://github.com/user-attachments/assets/0d1f14b3-92ad-4df8-8c34-5f9185be2905
+
+
+
+https://github.com/user-attachments/assets/566fd91c-b488-46fc-8841-6f9462b22b26
+
+
+https://github.com/user-attachments/assets/ac6a8463-0684-469c-b5ba-513697c715d7
+
+
+
+
+
 
 
 ### Ablation 
 To evaluate the effectiveness of the mix data training in our pipeline, we present a visualized ablation study.
 
-https://github.com/user-attachments/assets/6eeed683-e08d-48dd-bab2-357404717aa4
 
-https://github.com/user-attachments/assets/509e8b9f-ea6d-4465-a72c-ab3be435e25f
+https://github.com/user-attachments/assets/064a6cf7-979d-459f-aa76-32f479d09ecc
+
+
+
 
 
 
@@ -132,18 +147,18 @@ https://github.com/user-attachments/assets/509e8b9f-ea6d-4465-a72c-ab3be435e25f
 
 <table class="center">
   <tr>
-    <td><video src="https://github.com/user-attachments/assets/1a8a9f3e-8d2f-42c4-a0c5-549aae6cdb42" width="16%"></td>
-    <td><video src="https://github.com/user-attachments/assets/243d4f66-64c3-4838-8ff4-02b54938755d" width="16%"></td>
+    <td><video src="https://github.com/user-attachments/assets/be26533e-c50a-47fa-be64-532480096955" width="16%"></td>
+    <td><video src="https://github.com/user-attachments/assets/1b0a3807-783c-4a1a-9d3f-810c00042d90" width="16%"></td>
   <tr>
-    <td><video src="https://github.com/user-attachments/assets/180da137-1800-4058-8bf7-ad13b52a98ad" width="16%"></td>
-    <td><video src="https://github.com/user-attachments/assets/f4614a1a-380e-46f2-ac16-6dbf0f568058" width="16%"></td>
+    <td><video src="https://github.com/user-attachments/assets/dcba53ac-09f0-43d8-aa17-b0af7b663706" width="16%"></td>
+    <td><video src="https://github.com/user-attachments/assets/b2a914b2-e635-40f1-98a2-27c9ee92f6e4" width="16%"></td>
   </tr>
   <tr>
-    <td><video src="https://github.com/user-attachments/assets/f43ecda3-ddd2-46e1-a45c-7f32e21f1361" width="16%"></td>
-    <td><video src="https://github.com/user-attachments/assets/7c67a686-0fce-4a35-8aa3-56aaa6423a42" width="16%"></td>
+    <td><video src="https://github.com/user-attachments/assets/1c831ef0-2c5d-4713-8cd8-2c7e055c6e93" width="16%"></td>
+    <td><video src="https://github.com/user-attachments/assets/25d80816-2a67-46f9-bad4-55012dfaa57e" width="16%"></td>
   <tr>
-    <td><video src="https://github.com/user-attachments/assets/798a9622-5fac-4781-9db3-613f178227b8" width="16%"></td>
-    <td><video src="https://github.com/user-attachments/assets/5bfded14-34e8-4715-bbda-ff66bb8e533a" width="16%"></td>
+    <td><video src="https://github.com/user-attachments/assets/998152de-501e-4c00-ac82-e0eca1f04827" width="16%"></td>
+    <td><video src="https://github.com/user-attachments/assets/e31bab7f-3922-4b0e-970a-74f7f38a2494" width="16%"></td>
   </tr>
 </table>
 
@@ -258,11 +273,11 @@ Appropriate **alignment** between driving video and reference image is necessary
 From left to right: Reference Image, Extracted Pose from Reference Image, Driving Video, Aligned Driving Pose.
 <table class="center">
   <tr>
-    <td><video src="https://github.com/user-attachments/assets/762a413d-c21e-49d1-923f-a8a918358b6f" width="24%"></td>
-    <td><video src="https://github.com/user-attachments/assets/ba07da90-8628-4ada-ab53-6fad532c64d9" width="24%"></td>
+    <td><video src="https://github.com/user-attachments/assets/67a552b8-99d2-47bb-9de4-a2487e48bc56" width="24%"></td>
+    <td><video src="https://github.com/user-attachments/assets/2ca442a6-3da8-456f-b884-ca1e44fb5dba" width="24%"></td>
   <tr>
-    <td><video src="https://github.com/user-attachments/assets/5804a862-9b3f-4ef4-80ef-9d40a874974b" width="24%"></td>
-    <td><video src="https://github.com/user-attachments/assets/11511e0a-81d0-46af-8a60-fa732f8bd928" width="24%"></td>
+    <td><video src="https://github.com/user-attachments/assets/2265cfd4-34b9-4b1e-bded-4b87eae6b455" width="24%"></td>
+    <td><video src="https://github.com/user-attachments/assets/6fb012d4-034b-43fb-8018-e8725b8ab2ea" width="24%"></td>
   </tr>
 </table>
 
