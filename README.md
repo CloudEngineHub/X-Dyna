@@ -57,14 +57,6 @@
 This repo is the official pytorch implementation of X-Dyna, which generates temporal-consistent human motions with expressive dynamics.
 
 
-## 📹 Teaser Video
-
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/a49d31cd-1ae6-4660-a7f2-52f49ca40149" width="50%">
-</div>
-
-The video is compressed to low quality due to GitHub's limit. 
-
 ## 📑 Open-source Plan
 - [x] Project Page
 - [x] Paper
