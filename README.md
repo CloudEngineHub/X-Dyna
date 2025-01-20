@@ -41,7 +41,7 @@
     <sup>*</sup> denotes equal contribution
     <br>
     </br>
-        <a href="">
+        <a href="https://arxiv.org/abs/2501.10021">
         <img src='https://img.shields.io/badge/arXiv-XDyna-green' alt='Paper PDF'>
         </a>
         <a href='https://x-dyna.github.io/xdyna.github.io/'>
@@ -63,7 +63,7 @@ This repo is the official pytorch implementation of X-Dyna, which generates temp
   <video src="https://github.com/user-attachments/assets/a49d31cd-1ae6-4660-a7f2-52f49ca40149" width="50%">
 </div>
 
-The video is compressed to low quality due to GitHub's limit. The high quality version can be view from [here](https://youtube.com).
+The video is compressed to low quality due to GitHub's limit. 
 
 ## 📑 Open-source Plan
 - [x] Project Page
@@ -287,10 +287,17 @@ We provide some examples of aligned driving videos, human poses and reference im
 
 
 ## 🔗 BibTeX
-If you find [X-Dyna](https://arxiv.org) useful for your research and applications, please cite X-Dyna using this BibTeX:
+If you find [X-Dyna](https://arxiv.org/abs/2501.10021) useful for your research and applications, please cite X-Dyna using this BibTeX:
 
 ```BibTeX
-@misc{
+@misc{chang2025xdynaexpressivedynamichuman,
+      title={X-Dyna: Expressive Dynamic Human Image Animation}, 
+      author={Di Chang and Hongyi Xu and You Xie and Yipeng Gao and Zhengfei Kuang and Shengqu Cai and Chenxu Zhang and Guoxian Song and Chao Wang and Yichun Shi and Zeyuan Chen and Shijie Zhou and Linjie Luo and Gordon Wetzstein and Mohammad Soleymani},
+      year={2025},
+      eprint={2501.10021},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2501.10021}, 
 }
 ```
 
