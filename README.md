@@ -303,4 +303,6 @@ Our code is distributed under the Apache-2.0 license. See `LICENSE.txt` file for
 
 We appreciate the contributions from [AnimateDiff](https://github.com/guoyww/AnimateDiff), [MagicPose](https://github.com/Boese0601/MagicDance), [MimicMotion](https://github.com/tencent/MimicMotion), [Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone), [MagicAnimate](https://github.com/magic-research/magic-animate), [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter), [ControlNet](https://arxiv.org/abs/2302.05543), [HumanVid](https://github.com/zhenzhiwang/HumanVid), [I2V-Adapter](https://arxiv.org/abs/2312.16693) for their open-sourced research. We appreciate the support from <a href="https://zerg-overmind.github.io/">Quankai Gao</a>, <a href="https://xharlie.github.io/">Qiangeng Xu</a>, <a href="https://ssangx.github.io/">Shen Sang</a>, and <a href="https://tiancheng-zhi.github.io/">Tiancheng Zhi</a> for their suggestions and discussions.
 
+## IP Statement
+The purpose of this work is only for research. The images and videos used in these demos are from public sources. If there is any infringement or offense, please get in touch with us (`dichang@usc.edu`), and we will delete it in time.
 
