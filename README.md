@@ -282,14 +282,11 @@ We provide some examples of aligned driving videos, human poses and reference im
 If you find [X-Dyna](https://arxiv.org/abs/2501.10021) useful for your research and applications, please cite X-Dyna using this BibTeX:
 
 ```BibTeX
-@misc{chang2025xdynaexpressivedynamichuman,
-      title={X-Dyna: Expressive Dynamic Human Image Animation}, 
-      author={Di Chang and Hongyi Xu and You Xie and Yipeng Gao and Zhengfei Kuang and Shengqu Cai and Chenxu Zhang and Guoxian Song and Chao Wang and Yichun Shi and Zeyuan Chen and Shijie Zhou and Linjie Luo and Gordon Wetzstein and Mohammad Soleymani},
-      year={2025},
-      eprint={2501.10021},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2501.10021}, 
+@article{chang2025x,
+  title={X-Dyna: Expressive Dynamic Human Image Animation},
+  author={Chang, Di and Xu, Hongyi and Xie, You and Gao, Yipeng and Kuang, Zhengfei and Cai, Shengqu and Zhang, Chenxu and Song, Guoxian and Wang, Chao and Shi, Yichun and others},
+  journal={arXiv preprint arXiv:2501.10021},
+  year={2025}
 }
 ```
 
